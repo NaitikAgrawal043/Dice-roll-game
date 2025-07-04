@@ -1,0 +1,53 @@
+body{
+    background-color: #4C585B;
+    margin: 0%;
+   text-align: center;
+   color: #F4EDD3;
+   font-family: "Merriweather", serif;
+}
+h1{
+    margin: 50px auto 25px auto;
+    font-family: "Sacramento", serif;
+    font-size: 5.5rem;
+    color: #F4EDD3;
+    font-weight: bold;
+}
+.dice{
+    width: 170px;
+    height: 170px;
+}
+h4{
+    font-size: 1.5rem;
+}
+.conatiner{
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+    justify-content: center; /* Centers horizontally */
+    gap: 40px;
+    margin-bottom: 50px;
+}
+.click {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: rgb(161, 21, 21);
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    width: auto; /* Adjusts based on text size */
+    height: auto;
+}
+
+.click:hover {
+    background-color: rgb(34, 139, 34); /* A more natural green */
+    transform: scale(1.1); /* Slight pop-out effect */
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+footer{
+    margin-top: 30px;
+    font-size: 0.7rem;
+    font-weight: lighter;
+}
