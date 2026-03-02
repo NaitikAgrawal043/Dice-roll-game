@@ -1,6 +1,6 @@
 # 🎲 Dice Roll Game
 
-A fun, beginner-friendly dice rolling game made with **HTML**, **CSS**, and **JavaScript**.
+This is a  fun, beginner-friendly dice rolling game made with **HTML**, **CSS**, and **JavaScript**.
 
 ## 📌 What does it do?
 
